@@ -14,12 +14,13 @@
 ### Key points
 * Make sure your sceneries are in a folder which is in Documents\Prepar3D v4 Add-ons\ directory.
 
-> Example structure:
-Documents\Prepar3D v4 Add-ons\MyAddonScenery\ASDF
-Documents\Prepar3D v4 Add-ons\MyAddonScenery\ASDF\texture
-Documents\Prepar3D v4 Add-ons\MyAddonScenery\ASDF\scenery
-Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato
-Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato\texture
-Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato\scenery
-
+* **Example structure:**
+    ```
+    Documents\Prepar3D v4 Add-ons\MyAddonScenery\ASDF
+    Documents\Prepar3D v4 Add-ons\MyAddonScenery\ASDF\texture
+    Documents\Prepar3D v4 Add-ons\MyAddonScenery\ASDF\scenery
+    Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato
+    Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato\texture
+    Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato\scenery
+    ```
 > Source code and future releases: https://gitlab.com/shotwn/fast-scenery-script-for-p3d.git
