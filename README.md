@@ -24,4 +24,5 @@
     Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato\scenery
     ```
 > Source code : https://gitlab.com/shotwn/fast-scenery-script-for-p3d.git
+
 > Releases & Download : https://gitlab.com/shotwn/fast-scenery-script-for-p3d/tags
