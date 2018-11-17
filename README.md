@@ -6,6 +6,7 @@
 * Carry the sceneries you want to add within this folder.
     * See example file structure below.
 * Copy **Fast Scenery Script.exe** to said folder. 
+    * If you have python 3 installed, you can use source code directly.
 * Just run the the exe file, it will generate an add-on.xml file pointing at your scenery files. 
 * Run P3D and accept add-on prompt.
 * Good to go.
