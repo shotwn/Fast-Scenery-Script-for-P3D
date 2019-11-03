@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-Bitcoin-blue)](https://commerce.coinbase.com/checkout/e7c6e558-6a4b-4731-a5f0-87e1efd7b986)
+
 # Fast Scenery Script for P3D
 > Quick tutorial video https://youtu.be/Kh6ZGWarjKg
 
@@ -23,6 +25,3 @@
     Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato\texture
     Documents\Prepar3D v4 Add-ons\MyAddonScenery\Potato\scenery
     ```
-> Source code : https://gitlab.com/shotwn/fast-scenery-script-for-p3d.git
-
-> Releases & Download : https://gitlab.com/shotwn/fast-scenery-script-for-p3d/tags
